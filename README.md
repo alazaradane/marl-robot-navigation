@@ -19,7 +19,7 @@ Hi there! 👋 Welcome to our research project on Multi-Agent Reinforcement Lear
 6. **Single Agent Implementation (Frozen Lake)**  🧊 
    
 
-7. **Multi-agent and MATLAB Simulation**  🤝 
+7. **Multi-agent and Simulation**  🤝 
    
 
 8. **Analysis and Result**   📊 
